@@ -92,7 +92,12 @@
     </div>
 	<div class="container">
         <hr class="divider">
-        <embed height="100" width="auto" src="./audio/a01.mp3" />
+        <audio controls="controls">
+            <source src="./audio/a01.mp3" type="audio/ogg">
+            <source src="./audio/a01.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+        
         <footer>
             <p class="pull-right"><a href="#top">回到顶部</a></p>
             <p>©2015 DayDayFun</p>
