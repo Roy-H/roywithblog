@@ -1,0 +1,35 @@
+permalink: /:year/:month/:day/:title
+highlighter: pygments
+markdown: redcarpet
+
+exclude: [
+  TODO,
+  README.md,
+  develop,
+  build,
+  Gemfile,
+  Gemfile.lock
+]
+
+redcarpet:
+  extensions: ["smart"]
+
+# Custom variables:
+disqus: "journal-stuffwithstuff"
+
+category_names:
+  "ai": "AI"
+  "blog": "This Blog"
+  "book": "The Book"
+  "c-sharp": "C#"
+  "code": "Coding"
+  "cpp": "C++"
+  "c-sharp": "C#"
+  "game-dev": "Game Development"
+  "js": "JavaScript"
+  "language": "Programming Languages"
+  "oop": "OOP"
+  "oscon": "OSCON"
+  "procedural-generation": "Procedural Generation"
+  "roguelike": "Roguelikes"
+  "typescript": "TypeScript"
