@@ -4,3 +4,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+ {% assign post = site.posts[0] %}
+  {{ post.content }}  
