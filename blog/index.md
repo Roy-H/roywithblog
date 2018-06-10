@@ -1,6 +1,6 @@
 ---
 layout: default
-title: journal.stuffwithstuff.com
+title: Blog
 ---
 
 {% assign post = site.posts[0] %}

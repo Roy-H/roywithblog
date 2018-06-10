@@ -5,6 +5,6 @@
 {% endif %}
 <div class="post-box">
   <span class="date">{{ post.date | date: "%b %d" }}</span>
-  <a href="{{ post.url }}" class="title" rel="bookmark"
+  <a href="{{ post.url| relative_url }}" class="title" rel="bookmark"
    title="Permanent Link to {{ post.title | escape }}">{{ post.title }}</a>
 </div>

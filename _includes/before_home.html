@@ -1,0 +1,13 @@
+<article>
+    <header>
+    <h1>
+      <a href="{{ post.url| relative_url }}" rel="bookmark"
+         title="Permanent Link to {{ post.title | escape }}">
+        {{page.title | escape }}
+      </a>
+    </h1>
+    
+    </header>
+    <h4><a href="{{ "/archive" | relative_url }}">{{ post.date | date: "%B %d, %Y" }}</a>
+        <span class="tags">{{ post.categories | categorylinks }}</span>
+    </h4>
