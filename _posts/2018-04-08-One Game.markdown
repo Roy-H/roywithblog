@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "One Game"
+date:   2018-04-4 21:05:07 +0800
+categories: demo
+---
+
+Since I was a young boy, I remember I was fancy about the anime of Pokemon series. after a long period, I was think about I can have a real pokemon.
+
+I remmbered the frist pokemon game I play is Pokemon Yellow, That was phenomenal since I frist catched pokemons by GameBoy. that was incredible.
+
+
+Now I decide to make my Pokemon-like game, I will use somewhat pokemon art resource then make a totally new game that will tell about different story. I have much confidence to finish this game for sure, and I will do this in my free time, because I also have work in my regular daytime. 
+
+I will limk the [game page]({{"./pk"|absolute_url}})  here.
