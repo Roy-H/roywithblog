@@ -1,0 +1,41 @@
+Identity
+
+Les stats, c’est moi
+
+A new way to think about data is needed
+
+
+~[翻译](身份，吾即数据，对数据的新思考势在必行)
+
+“Data”, runs a common refrain, “is the new oil.” Like the sticky black stuff that comes out of the ground, all those 1s and 0s are of little use until they are processed into something more valuable. That something is you.
+
+~[翻译](一个常听到的说法是，「数据是新时代的石油。」与那些来自地下的黑色粘稠物质一样，所有这些 1 和 0 在被加工成某种更有价值的东西之前无甚用处。而那个有价值的东西便是你。)
+
+Seven of the world’s ten most valuable companies by market capitalisation are technology firms. Excluding Apple, which makes money by selling pricey gadgets, and Microsoft, which charges businesses for its software and services, all are built on a foundation of tying data to human beings. Google and Facebook want to find out as much as it is possible to know about their users’ interests, activities, friends and family. Amazon has a detailed history of consumer behaviour. Tencent and Alibaba are the digital wallets for hundreds of millions of Chinese; both know enough about consumers to provide widely used credit scores.
+
+~[翻译](全球市值最高的十家公司中有七家是科技公司。苹果靠销售昂贵的小设备赚钱，微软就软件和服务向企业收费，其余五家的立身之本都是将数据和人关联在一起。谷歌和 Facebook 希望尽可能多地掌握用户的兴趣、活动、朋友和家人方面的数据。亚马逊对用户过往的消费行为一清二楚。腾讯和阿里巴巴充当了数亿中国人的数字钱包，两者都足够了解用户，并据此提供被广泛使用的信用评分系统。)
+
+That data are valuable is increasingly well-understood by individuals, too, not least because personal information is so often hacked, leaked or stolen. India’s database has been shown to be vulnerable to scammers and state abuse. Facebook has spent most of 2018 dealing with the reputational damage of multiple breaches, most notably via Cambridge Analytica, a consulting firm. The list of other companies that have suffered some sort of data breach in 2018 alone reads like a roll call of household names: Google, Marriott, Delta, British Airways, Cathay Pacific, Best Buy, Sears, Saks 5th Avenue, even Panera Bread. Such events have caused a tectonic shift in the public understanding of data collection. People have started to take notice of all the data they are giving away.
+
+~[翻译](个人也越来越清楚数据的价值，尤其是因为个人信息如此频繁地遭到黑客攻击、被泄露或窃取。事实证明印度的数据库容易受到骗子的攻击和政府的滥用。2018 年，Facebook 大部分时间都在应付多起泄密带来的声誉损失，最出名的一起就是咨询公司剑桥分析事件。仅在 2018 年就有以下这些家喻户晓的公司发生了一定程度的数据泄露：谷歌、万豪、达美航空、英国航空、国泰航空、百思买、西尔斯、萨克斯第五大道，甚至还有美国最大的面包连锁店 Panera Bread。这些事件已经颠覆了公众之前对数据收集的理解。人们开始注意到自己正在拱手送出的所有数据。)
+
+
+Yet few have changed their online behaviour, boycotted snooping tech firms or exercised what few digital rights they possess. Partly this is because managing your own data is time-consuming and complex, even for those who understand how to do it. But it is also because of a misunderstanding of what is at stake. “Data” is an abstract concept, technical and intangible. Far more solid is the idea of identity. It is only when “data” is understood to mean “people” that individuals will demand accountability from those who seek to know them.
+
+~[翻译](然而却很少有人改变自己的网上行为、抵制窥探个人隐私的科技公司，或行使自己微乎其微的数字权利。这在一定程度上是因为自我管理数据既耗时又复杂，即使对内行人也不例外。但同时也是因为人们对其中的利害存在误解。「数据」是个既专业又无形的抽象概念。而身份的概念则要实实在在得多。只有当「数据」被理解为代表着「人」时，个人才会要求那些企图掌握他们信息的公司承担责任。)
+
+
+When they are used by states, such techniques pose a still greater threat. Algorithms that are able to recognise patterns in data can pinpoint dissidents or even those with unconventional opinions. In 2012 Facebook experimented with using data to manipulate emotions. In 2016 Russia used data to influence the American presidential election. The question is not whether someone is doing something wrong. It is whether others can do wrong to them.
+
+~[翻译](如果这些技术为国家所用，构成的威胁则更大。能够识别数据模式的算法可以准确挑出异见人士，甚至是持非传统观点的人。2012 年，Facebook 开展了利用数据操纵情绪的试验。2016 年，俄罗斯利用数据来影响美国总统大选。因此，问题并不是有没有人在做坏事，而是别人能不能同样对他们还以颜色。)
+
+
+We, the data
+
+~[翻译](我们，便是数据)
+
+
+The fossils of past actions fuel future economic and social outcomes. Privacy rules, data-protection regulation and new laws surrounding the use of algorithms are crucial in protecting the rights of individuals. But the first step towards ensuring the fairness of the new information age is to understand that it is not data that are valuable. It is you.
+
+~[翻译](历史行为就像化石燃料，为未来的经济和社会结果添柴加火。隐私规则、数据保护法规以及有关算法使用的新法律在保护个人权利方面至关重要。但要确保新信息时代的公平，首先要明白，有价值的不是数据，而是你自己。)
+

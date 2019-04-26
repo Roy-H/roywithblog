@@ -1,55 +1,58 @@
-Post offices in the rich world
-
-Going postal
-
-Amazon is not the only threat to universal mail services
-~[翻译](发达国家的邮局，喋血邮局，亚马逊并非普遍邮政服务的唯一威胁)
-
-IT MAY be hard to imagine a world without cheap postal services, but 200 years ago sending mail was a luxury. Posting a letter from London to Edinburgh cost an average daily wage. In 1840, after a proposal by Rowland Hill, an inventor, Britain launched the Penny Post, the world’s first universal mail service. The state-run post office was given a mail monopoly in return for delivering letters to any address in the country at the same rate. Cheaper postage proved wildly popular and the flows of information it enabled boosted economic growth. But the scheme’s finances proved controversial. The low cost of the service hit profits and the government introduced income tax to fill the fiscal hole.
-
-~[翻译](一个没有平价邮政服务的世界或许很难想象，但在200年前，寄邮件还是一种奢侈。从伦敦寄一封信到爱丁堡的花费相当于当时普通人一天的收入。1840年，在发明家罗兰·希尔（Rowland Hill）的提议下，英国推出了“一便士邮政”（Penny Post），这是世界上第一个普及邮件服务。国营邮局以统一资费向国内任意地址寄件，并以此获得了邮政的垄断经营权。结果，平价邮政服务大受欢迎，所带来的信息流动更是促进了经济增长。但这套方案在财务方面却备受争议。邮政服务靠低资费难以盈利，政府决定开征所得税来弥补财政亏空。)
-
-That did not stop the idea of a “universal service obligation” for post spreading across the entire rich world over the next century. At the industry’s peak, post offices worldwide delivered nearly 350bn items of mail in 2007. But over the past decade this model has come under threat from falling letter volumes and from gig-economy firms and e-commerce giants expanding into parcel delivery.
-
-~[翻译](这并未阻挡之后的一个世纪里履行邮政“普遍服务义务”的理念在富裕国家中传扬开来。在邮政行业还处于巅峰期的2007年，全球邮局递送了近3500亿个邮件。但在过去十年里，该模式受到重重威胁，除了信函邮寄量大减，零工经济公司和电子商务巨头也开始向包裹递送领域扩张。)
-
-As a result, the postal service in America has again become controversial. On April 12th President Donald Trump set up a task force to examine the finances of the state-owned United States Postal Service (USPS). In March and April he has attacked Amazon, an e-commerce giant, on Twitter for costing USPS “massive amounts of money” for delivering its items. Analysts think that claim is dodgy. Mr Trump has a well-known dislike of Amazon and its boss, Jeff Bezos, who also owns theWashington Post, no fan of the president. But it is true that USPS is in serious financial trouble. Since 2008 revenues have fallen by 35% in real terms and it last made a profit in 2006. 
-
-~[翻译](结果，美国邮政服务再次成为争议焦点。4月12日，特朗普成立工作小组，审查国有的美国邮政局（以下简称USPS）的财务状况。三四月间，他在Twitter上怒斥电商巨头亚马逊，说USPS为给亚马逊递送货物亏了“很多钱”。分析人士认为这种指责很可疑。众所周知，特朗普向来不喜欢亚马逊及其老板贝佐斯——贝佐斯拥有的《华盛顿邮报》对这位总统很不买账。但USPS确实面临严重的财务困境。自2008年起，它的实际收入下降了35%，最近一次盈利已远在2006年。)
+Psychology
 
 
-Post offices elsewhere in the rich world suffer the same underlying problems, yet are more financially successful. Letter volumes have fallen at a rate of between 3% and 5% a year across the developed world over the past decade, says Brody Buhler of Accenture, a consultancy. Up to 80% of letter volumes could be lost before a floor is reached, says Rob Wolleswinkel of BCG, another consultancy.
-
-~[翻译](其他富裕国家的邮政系统也面临同样的深层问题，只是财务状况要好些。咨询公司埃森哲（Accenture）的布罗迪·布勒（Brody Buhler）表示，过去十年，发达国家的信函量每年下降3％到5％。波士顿咨询公司的劳勃·沃利斯文科（Rob Wolleswinkel）认为，在触底之前，多达80％的信函量可能会消失。)
+Dinner diplomacy
 
 
-Most of the decline has been due to bank statements and utility bills going online and personal letters and greeting cards going out of fashion. Junk mail has also begun to crumble due to the rise of digital advertising on smartphones. Online government services are likely to reduce demand for first-class letters even further. Denmark scrapped that service in 2016. 
-
-~[翻译](下滑的主要原因是银行账单和水电燃气账单已逐渐转为电子账单，私人信函和贺卡也不再流行。由于智能手机数字广告的兴起，邮寄垃圾广告也开始走向消亡。政府推出的各种在线服务很可能会进一步降低对一类邮件的需求。丹麦已于2016年取消了次日收信。)
+Sharing food leads to more successful negotiations
 
 
-Parcels could come to the rescue. In 2014-16 global package volumes surged by 48%, reckons Pitney Bowes, a tech firm. But unlike with letters, most post offices do not have a monopoly in parcels, so margins are thinner. The machines needed to sort bulky parcels require heavy investment that strains cash-strapped post offices. 
+~[翻译](心理学，晚餐外交，分享食物让谈判更成功)
 
 
-~[翻译](包裹寄递服务或许可以救场。据科技公司必能宝（Pitney Bowes）估计，2014年至2016年间，全球包裹寄送量激增48%。但是，不同于信函，大多数邮局在包裹投递上没有垄断地位，所以利润较薄。分拣大件包裹的机器需要大量投资，资金短缺的邮局对此力不从心。)
+Sharing the kimchi would have helped
+
+~[翻译](分吃泡菜本可能更好)
 
 
-Their struggles are also due to delivery startups. Investors are pouring money into gig-economy couriers that use cheaper, self-employed drivers. BCG reckons that investment in such firms grew from $200m to nearly $4bn in 2014-16. Post offices, weighed down by strident unions, high labour costs and costly networks of sorting centres, struggle to compete.
+
+SHRIMP COCKTAIL, grilled sirloin with pear kimchi and chocolate lava cake. Donald Trump and Kim Jong Un had the same food brought to them on individual plates during their summit on February 27th. Psychologists think a meal like this is a good first step towards improving relations. But new work suggests there might have been a more positive outcome with a different serving arrangement.
+
+~[翻译](鲜虾杯，烤西冷牛排配韩式梨泡菜，然后是巧克力熔岩蛋糕。2月27日，特朗普和金正恩在峰会期间分盘享用了相同的食物。心理学家认为这样的同桌进餐是改善关系的良好开端。但新研究表明，另一种用餐安排可能会产生更积极的结果。)
+
+As Kaitlin Woolley of Cornell University and Ayelet Fishbach of the University of Chicago report in Psychological Science, a meal taken “family-style” from a central platter can greatly improve the outcome of subsequent negotiations.
+
+~[翻译](康奈尔大学的凯特琳·伍利（Kaitlin Woolley）和芝加哥大学的阿耶莱特·费斯巴赫（Ayelet Fishbach）在《心理科学》（Psychological Science）杂志上发表的论文说，从同一个大盘中取食的“家庭式”进餐方式能大大改善后续谈判的结果。)
+
+Having conducted previous research in 2017 revealing that eating similar foods led to people feeling emotionally closer to one another, Dr Woolley and Dr Fishbach wondered whether the way in which food was served also had a psychological effect. They theorised that, on the one hand, sharing food with other people might indicate food scarcity and increase a notion of competition. However, they also reasoned that it could instead lead people to become more aware of others’ needs and drive co-operative behaviour as a result. Curious to find out, they set up a series of experiments. 
+
+~[翻译](伍利和费斯巴赫先前在2017年进行的研究发现，吃同样的食物会让人们在感情上更亲近。她们想知道上菜方式是否也会产生心理上的影响。她们推论，一方面，与其他人分享食物或许代表食物份量有限，进而会增强竞争意识。但她们也推测，或许分享会让人们留意到他人的需求，从而推动合作行为。她们很想知道事实到底如何，于是设计了一系列实验。)
 
 
-~[翻译](快递创业公司也是令邮局陷入困境的原因。投资者正大笔押注于采用更廉价的自雇司机的零工快递公司。据波士顿咨询估计，从2014年到2016年，对这类公司的投资从两亿美元增至近40亿美元。邮局受强势工会、高人力成本和成本高昂的分拣中心网络所累，难以与之竞争。)
+For the first test they recruited 100 pairs of participants from a local café, none of whom knew each other. In return for a $3 gift card and a chance to win $50 based upon their performance during a negotiation game, the participants were sat at a table and fed tortilla chips with salsa. Half the pairs were given their own basket of 20 grams of chips and a bowl of 25 grams of salsa, and half were given 40 grams of chips and 50 grams of salsa to share. As a cover for the experiment, all participants were told this snack was to be consumed before the game began.
+
+~[翻译](在第一次实验中，她们从地方上的一家咖啡馆招募了200名互不相识的参与者，每两人一组。参与实验可获得3美元的礼品卡，并有机会在谈判游戏中根据表现赢得50美元。他们两人一桌，享用墨西哥玉米片配莎莎酱。研究者给其中50组每人单独上了一份20克的玉米片和一碗25克的莎莎酱，给另50组一份40克的玉米片和50克的莎莎酱，让两人分着吃。为了不让参与者知道真实用意，研究人员告诉他们，吃完这些小食，谈判游戏才会真正开始。)
 
 
-But it is not yet clear that gig couriers will survive in the long term, says David Jinks of ParcelHero, a parcel broker. In March two American startups, UberRUSH, a service owned by Uber, a ride-hailing app, and Shyp, shut themselves down due to a lack of demand. Bad publicity about working conditions is forcing others, such as DPD of Britain, to introduce holiday and sick pay. Tighter labour markets may make it harder to find enough cheap drivers to compete with the postal services. 
+The game required the participants to negotiate an hourly wage rate during a fictional strike. Each person was randomly assigned to represent the union or management and follow a set of rules. 
 
-~[翻译](但英国快递代理公司ParcelHero的大卫·金克斯（David Jinks）表示，零工快递公司能否长久生存仍是未知数。3月，网约车公司优步旗下的UberRUSH和Shyp这两家美国创业公司因需求不足分别关停和倒闭。关于员工工作条件的负面报道则迫使英国DPD等其他快递创业公司为员工增加带薪年假和病假等福利。由于劳动力市场趋紧，这些公司可能更难找到足够多的廉价司机与邮政服务竞争。)
-
-
-E-commerce giants may prove a greater threat. The biggest risk is not that post offices bid for their business too cheaply, as Mr Trump suggests. It is that they lose their custom completely. Amazon has already hit Britain’s Royal Mail hard by starting its own door-to-door deliveries. In California it has launched a grocery-delivery service as a way of gaining greater scale to deliver its own e-commerce parcels itself. The biggest threat of all may come from Amazon’s Chinese rival, Alibaba, which is injecting $15bn into its own delivery arm, Cainiao, and aims to expand beyond China. By doing their own deliveries in cities, where profits are juicier, these firms could leave less money on the table for post offices to cross-subsidise rural services, where costs are higher.
-
-~[翻译](电商巨头也许会是更大的威胁。最大的风险倒不是如特朗普所说的邮局以过低的价格竞标电商巨头的快递业务，而是邮局完全丧失这些业务。亚马逊已自立门户提供送货上门服务，对英国皇家邮政造成重创。在加州，亚马逊推出了杂货递送服务，借此扩大递送自有电商包裹的规模。而最大的威胁也许来自亚马逊的中国竞争对手阿里巴巴。该公司向旗下快递业务“菜鸟”注资150亿美元，并计划向海外拓展。通过在利润更丰厚的城市地区自营快递业务，这些公司可能会分流邮局的收入，让它们难以交叉补贴成本更高的农村服务。)
+~[翻译](游戏而后要求参与者在一次虚构的罢工事件中谈判时薪。每一组中都随机分配一人扮演工会代表，另一个人扮演企业主管，双方遵循一套规则开展谈判。)
 
 
-The answer to these challenges is not to shield postal services from competition. Four out of the world’s five fastest-growing legacy firms—Singapore Post, Poste Italiane, bpost of Belgium and Austrian Post—are privately owned and face rivals. Royal Mail, which was privatised earlier this decade, is using gig-economy staff to deliver parcels and is investing in startups to improve its services, says Daniel Roeska of Bernstein, a research firm. Although Deutsche Post DHL of Germany will be 30% more labour-efficient in a decade’s time, Frank Appel, its chief executive, insists that the growth of e-commerce will keep his existing workforce fully employed. 
+The researchers measured co-operation by noting the number of rounds it took to reach an agreement, and found that those who shared food resolved the strike significantly faster (in 8.7 rounds) than those who did not (13.2 rounds). A similar experiment was conducted with 104 participants and Goldfish crackers, this time negotiating an airline’s route prices. The results were much the same, with the food-sharers negotiating successfully 63.3% of the time and those who did not share doing so 42.9% of the time.
 
-~[翻译](要应对这些挑战，答案不是保护邮政服务免于竞争。全球增长最快的五大传统邮政企业中有四家（新加坡邮政、意大利邮政、比利时邮政和奥地利邮政）是私营公司，且不乏竞争对手。研究公司盛博的分析师丹尼尔·罗斯卡(Daniel Roeska) 称，于2013年私有化的英国皇家邮政目前以零工模式聘用员工递送包裹，同时也在投资创业公司来改善自身服务。虽然德国邮政DHL在未来十年内会将劳动效率提高30%，但其首席执行官弗兰克·阿佩尔（Frank Appel）坚称，电子商务的发展将令现有员工得到充分就业。)
+
+~[翻译](研究人员记录下每组参与者最终达成协议所经历的谈判轮数，作为衡量合作程度的指标。她们发现分享一份食物的小组解决罢工的速度（8.7轮）明显快过那些分餐的小组（13.2轮）。另一项类似的实验招募了104名参与者，食物换成了金鱼饼干，谈判内容是航空公司的票价。实验结果大致相同：分享食物的参与者谈判成功率为63.3%，各吃各的小组的成功率为42.9%。)
+
+
+To see if food-sharing among friends worked in the same way as it did among strangers, Dr Woolley and Dr Fishbach ran their strike experiment again with 240 people, partnering together two friends or two strangers. Regardless of whether the pairs were friends or strangers, those who shared food went into fewer rounds during the game, averaging 6.4 rounds, than those who did not share food, averaging 9.8. Friendship did have an effect, though. Whether they shared food or not, friends were generally more co-operative.
+
+
+~[翻译](伍利和费斯巴赫想知道朋友之间分享食物的效果是否与陌生人之间相同，于是再次组织了罢工实验，邀请了240人参加。这一次每组的两个参与者互为朋友或陌生人。结果发现，不管同组的两人是朋友还是陌生人，分享食物的小组在游戏中谈判的轮数更少，平均为6.4轮，没有分享食物的小组平均为9.8轮。但朋友关系确实有其影响。无论是否分享了食物，朋友之间的合作程度普遍更高。)
+
+
+Mr Trump and Mr Kim might balk at having to take turns serving themselves from platters in the centre of a table. But these results suggest that such an arrangement really could help world diplomacy.
+
+~[翻译](特朗普和金正恩可能不大愿意轮流从桌子中间的大盘子里取食。但这些实验结果表明，这样的用餐方式很可能有助于世界外交。)
+
+
