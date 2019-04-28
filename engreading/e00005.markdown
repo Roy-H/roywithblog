@@ -1,0 +1,61 @@
+Bartleby
+
+Conscious decoupling
+
+A new book explains how managers struggle with changing customer behavior
+
+
+~[翻译](巴托比，自觉脱钩，一本新书分析管理者如何努力应对不断变化的客户行为)
+
+THINK ABOUT the companies like Uber and Airbnb that have burst through into public consciousness in the past ten years. While many of them depend on the internet, their success is not down to any particular technological innovation of their own design. Instead, their secret lies in their business model.
+
+~[翻译](优步和爱彼迎等公司在过去十年里异军突起，闯入公众视野。虽然它们当中有许多都依赖互联网，但其成功却并非源自任何自己创造的特定的技术创新。相反，它们的秘诀是商业模式。)
+
+Thales Teixeira of the Harvard Business School argues that the principle that underlies a lot of these models is called decoupling. In his book “Unlocking the Customer Value Chain”*, he explains how this concept applies across a wide range of industries.
+
+~[翻译](哈佛商学院的塔莱斯·特谢拉（Thales Teixeira）认为，这许多商业模式的背后是同一个原理——“脱钩”。在《解锁客户价值链》*（Unlocking the Customer Value Chain）一书中，他解释了这一概念如何适用于众多行业。)
+
+Buying a product will involve at least four stages. First, customers will evaluate the items available; then they will choose one or two; then they will buy them; finally they will consume them. In the traditional model, the first three took place inside a single retail store. Customers would look at the TVs or dishwashers on offer, pick one they liked with a price they could afford, pay at the till and then take the item home or arrange for the retailer to deliver it.
+
+~[翻译](购买一件产品至少涉及四个阶段。首先顾客会评估市面上的产品，从中选择一两件，然后掏钱购买，最后是使用。在传统模式中，前三阶段发生在同一家零售店内。顾客会查看在售的电视机或洗碗机，选出自己心仪的、价格又合适的产品，到收银台付款，然后将商品带回家或由零售商安排送货上门。)
+
+
+These steps are all part of what Mr Teixeira calls the “customer value chain”. Disrupters have muscled in on some parts of this chain. One example is the practice of “showrooming”. Shoppers enter an electrical store like Best Buy and examine what’s on offer. But instead of purchasing the item in the store, they buy it online. Amazon has even created an app allowing customers to scan a product’s bar code, or take its picture, and discover its online price. The selection of products has been decoupled from their purchase.
+
+~[翻译](这些步骤都是特谢拉所说的“客户价值链”的一部分。现在，颠覆者已强势介入这一链条的某些环节。“展厅”现象的出现便是个例子。购物者走进百思买（Best Buy）这样的电器商店，研究出售的货品。但他们不在店内购买，而是会网购。亚马逊甚至设计了一个应用，让客户扫描产品条形码或拍个照就能了解产品的网上售价。产品的挑选和购买环节脱钩了。)
+
+
+Other examples of the decoupling process cited by Mr Teixeira include Zipcar, where driving a car is separated from purchasing and maintaining it; TiVo, where watching TV is delinked from sitting through ads; and Birchbox, where customers are sent samples of beauty products, eliminating the need to visit a store to try them.
+
+~[翻译](特谢拉举出的其他“脱钩”例子还有：美国汽车共享公司zipcar让开车和买车及养车脱钩，数字录像机Tivo让人们在看电视时不必再看插播的广告，还有提供美容产品在线订阅服务的Birchbox，顾客会收到其寄送的美容产品小样，无需去某家商店试用。)
+
+
+This is not, as the author points out, a particularly new idea. Budget airlines like Ryanair have long since decoupled flying from the services and amenities that usually accompanied it. Passengers have to pay separately for the extras, like seat selection and the carrying of baggage. Other airlines have followed suit.
+
+~[翻译](正如特谢拉所指出的，这不是什么特别新潮的概念。像瑞安航空这样的廉价航空公司早已让飞行和通常与之捆绑在一起的服务与便利设施脱钩。乘客必须为选座位和行李托运等额外服务另行付费。其他航空公司已纷纷效仿。)
+
+
+Customer services have for some time been disrupted by a trend with the ugly name of disintermediation, the cutting out of middlemen. Most holidays are now purchased directly, rather than via travel agents; shares are bought via low-commission services, rather than through advisory stockbrokers. New entrants can gain market share if they can offer customers a lower cost or greater convenience. Decoupling doesn’t subtract middlemen but still results in lower costs to the consumer.
+
+~[翻译](客户服务环节被去中介化（即去除中间商）这一趋势颠覆已有一段时日。如今人们大多直接购买度假产品，而不是通过旅行社；从低收费的服务商购入股票，而不是通过提供咨询服务的股票经纪商。新进入的商家如果能为客户提供更低的成本或更大的便利，就能获得市场份额。脱钩并不去除中间商，却仍为消费者降低了成本。)
+
+
+The beauty of the decoupling approach is that the only limit to innovation is imagination, rather than technical brilliance. For example, Mr Teixeira cites Trov,a company which allows customers to buy insurance solely for specific items for specific periods of time. If you want to insure your latest smartphone for a two-week holiday, you can do so; and then insure it again for a weekend trip later in the year. The needfor insurance is decoupled from the hassle of buying an annual policy.
+
+~[翻译](有了脱钩这种方式，想象力而非技术水平就成了创新的唯一限制。这就是脱钩的妙处。特谢拉举了保险公司Trov的例子，它允许客户仅在特定时间段为特定项目购买保险。想在度假时为新买的智能手机投保两周？完全可以。还想等到今年晚些时候某次周末旅行时再为手机投保？也没问题。保险需求与麻烦的按年投保脱钩了。)
+
+
+Suppose that you like a restaurant’s ambience, but not its food. In theory, you could book a table but order the food from elsewhere, paying separately for the service and the cooking. If 3D printers become ubiquitous, design and manufacture could be decoupled, with consumers paying for the digital blueprint.
+
+~[翻译](假设你喜欢某家餐厅的环境氛围，但不中意它的食物。理论上讲，你可以预订餐桌，再从别家餐厅点菜，为餐厅服务和菜品分别付费。假如3D打印机得到普及，设计和制造就可能脱钩，消费者可以单独为数字设计图付费。)
+
+
+
+Mr Teixeira argues that decoupling is a customer-driven phenomenon-bottom-up rather than top-down. Successful businesses will spot how consumer tastes are shifting, and that may involve looking at other industries as well as their own. For example, they can look at the success of Netflix’s subscription-based model; what works for TV programmes may also work for other goods and services. Already, there are companies that will deliver socks or perfume on a regular basis, decoupling this from a trip to the mall.
+
+~[翻译](特谢拉认为，脱钩是一种由客户驱动的现象，自下而上、而非自上而下地进行。成功的企业会察觉消费者的口味如何变化，为此，它们除了要审视自己所在的行业，还可能需要观察其他行业的发展。例如，它们可借鉴Netflix订阅模式的成功经验，因为适用于电视节目的模式也许同样适用于其他商品和服务。已经有公司定期给顾客递送袜子或香水，使购买这些商品的行为与逛商场脱钩。)
+
+
+The challenge for existing managers is that they must worry about more than whether their overall costs are lower than those of their immediate rivals. If a part of their process is inefficient, or inconvenient for consumers, the decouplers may well grab hold of it.
+
+~[翻译](在位管理者面临的挑战是，他们不能单单关心自己的整体成本是否低于直接竞争对手。只要他们的某个经营环节效率低下，或者令消费者感到不便，“脱钩分子”就可能乘虚而入，夺取市场份额。)
