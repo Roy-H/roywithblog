@@ -1,0 +1,67 @@
+#h3 Free exchange
+
+Shocked
+
+America has found the “China shock” harder to shrug off than past import waves. Why?
+
+~[翻译](自由交流,大受冲击,比起过去的进口浪潮，美国更难摆脱“中国冲击”的影响。原因何在？)
+
+The people of Des Moines, Iowa, are no strangers to economic upheaval. When a wave of Japanese imports arrived in America in the 1980s, their city was one of the places most vulnerable to the new competition. In 1974, 4,500 of them worked at making farm machinery and equipment. As many again made tyres and inner tubes. By 1990 only a little over half of those jobs were left. Yet in the intervening 16 years thousands of new jobs had sprouted, in life insurance, building materials and the restaurant trade. In 1990 Des Moines’ unemployment rate was below 4%, less than the national average of 5.6%.
+
+~[翻译](对于经济动荡，爱荷华州得梅因（Des Moines）的市民并不陌生。上世纪 80 年代日本的进口浪潮抵达美国时，他们的城市是最易受新竞争冲击的地方之一。1974 年，当地有 4500 人从事农业机械设备制造。还有同样数量的人从事轮胎和内胎制造。到 1990 年，这些岗位就只剩下一半多一点。然而在这 16 年间，人寿保险、建材和餐饮业又创造出了数以千计的工作岗位。1990 年当地的失业率不到 4%，低于全国 5.6% 的平均水平。)
+
+Not everyone fared as well. Mary Kate Batistich and Timothy Bond, of Purdue University, have recently estimated that the “Japan shock” explains about one-fifth of the fall in African-Americans’ labour-force participation between 1970 and 1990. But Des Moines’ experience was typical. Kerwin Kofi Charles, Erik Hurst and Mariel Schwartz, of the University of Chicago, found that local declines in manufacturing employment in the 1980s were not associated with increases in local unemployment rates.
+
+~[翻译](不是所有人都那么好运。普渡大学的玛丽·凯特·巴蒂施（Mary Kate Batitsch）和蒂莫西·邦德（Timothy Bond）近期估计，1970 年至 1990 年间，非裔美国人的劳动力参与率下降约有五分之一缘于“日本冲击”。但得梅因的经历很典型。芝加哥大学的科尔文·科菲·查尔斯（Kerwin Kofi Charles）、埃里克·赫斯特（Erik Hurst）和玛丽埃尔·施瓦茨（Mariel Schwartz）发现，上世纪 80 年代当地制造业就业人数下降并没有引发当地失业率上升。)
+
+That may surprise someone familiar with research on the impact on America of trade with China in the 1990s and 2000s. Mr Charles and his colleagues also concluded that in the 2000s jobless rates tended to rise when manufacturing employment fell. In a well-known paper in 2016, David Autor, David Dorn and Gordon Hanson found that a wave of Chinese imports kicked exposed workers out of their jobs and left some on the disability rolls. Even their marriage prospects suffered.
+
+~[翻译](对于熟悉上世纪 90 年代和本世纪初美中贸易对美影响相关研究的人来说，这个发现可能会令他们意外。查尔斯及其同事还得出结论：在本世纪初，制造业就业人数下降时，失业率趋于上升。在一篇发表于 2016 年的著名论文中，大卫·奥托尔（David Autor）、大卫·多恩（David Dorn）和戈登·汉森（Gordon Hanson）发现，一波中国进口产品的到来让那些易受冲击的人群丢了饭碗，导致一些人只能靠残障福利金过活。甚至他们的婚姻前景也受到了影响。)
+
+
+Why did competition from China hurt so much more than that from Japan a generation before? In another new study Katherine Eriksson, Katheryn Russ and Minfei Xu, of the University of California, Davis, and Jay Shambaugh, of George Washington University, sift the evidence and conclude that vulnerability to trade shocks depends on when and where they strike. Whereas earlier shocks—first from Japan, then from the “tiger” economies of East Asia—affected areas that were at that time relatively resilient to change, the China shock hit places that were less able to adapt.
+
+~[翻译](和上一代人经历的来自日本的竞争相比，中国竞争带来的伤害为什么要严重得多？在另一项新研究中，加州大学戴维斯分校的凯瑟琳·埃里克森（Katherine Eriksson）、凯瑟琳·拉斯（Katheryn Russ）和徐旻菲以及乔治·华盛顿大学的杰伊·尚博（Jay Shambaugh）细查证据，得出结论：对贸易冲击的承受力取决于冲击发生的时间和地点。较早的冲击发生时（先是来自日本，随后是东亚的“四小龙”），受影响的地方在当时对变化的适应力较强。相较之下，受中国冲击影响的地方当时的适应能力较弱。)
+
+
+The thesis rests on the idea of production cycles, and the journey from the frontiers of innovation to the backwaters of standardisation. Whizzy gadgets are at the cutting edge when they first appear, but eventually become humdrum. As processes settle down and become standardised, and once-novel gizmos become commodities, the location of production shifts too, away from innovation hotspots with better-educated populations towards communities that might not cope so well if jobs disappear.
+
+~[翻译](这一论点是依据生产周期的概念，以及产品从创新前沿走向标准化大后方的历程。利用先进技术打造而成的小设备刚面世时处于前沿，但最终会沦为寻常之物。随着制作工艺稳定下来并实现标准化，曾经新颖的小玩意成为了大众商品，生产的地点也会转移——从拥有受过良好教育人口的创新热点区域迁往其他社区。在这些社区里，如果工作岗位消失，它们可能难以很好地应对。)
+
+
+Manufacturing employment blossomed at the beginning of the 20th century in places where people tended to be better educated and which produced more patents per person than the average. But as the decades passed and manufacturing employment spread, the correlation with patenting and education weakened. Ms Eriksson and her co-authors find that the import shocks from Japan and East Asia of the 1970s and 1980s hit products that were relatively early in their innovation cycles, such as video and audio equipment. They were made in places that boasted above average numbers of patents per person. Places making products exposed to Japan seemed to have been doing particularly well. They enjoyed above-average levels of income and education levels and below-average rates of unemployment.
+
+~[翻译](上世纪初，在那些人们往往受过更好的教育、人均专利数量也超过平均水平的地方，制造业蓬勃发展。但几十年过去，随着制造业就业的扩散，这个行业的就业与专利及教育的相关性减弱了。埃里克森与合著者发现，上世纪七八十年代，日本和东亚进口冲击的是那些尚处于创新周期较早阶段的产品，如视频和音频设备。这些产品都是在人均专利数量高于平均的地方生产的。那时，在那些所生产的产品易受日本进口竞争影响的地方，形势似乎一直都特别好，居民收入和受教育程度都在平均水平之上，失业率则低于平均水平。)
+
+
+The China shock was different. Production in affected industries—this time, for example, toys and shoes—had indeed started out in places with relatively well-off, well-educated workers where patenting was relatively concentrated. Had the shock hit in 1960, 40-50 years before it did, it would have landed on fairly rosy-looking towns. But by 1990 production had already shifted to districts with above-average unemployment, below-average education and no greater propensity for patenting than the country as a whole.
+
+
+~[翻译](中国冲击潮却不同。受影响的行业——这一次是玩具和鞋类等——最初确实是在劳动者相对富裕且受过良好教育、专利也相对集中的地方发端的。假如中国冲击是发生在四五十年前的 1960 年，那么首当其冲受影响的会是那些前景看起来相当光明的城镇。但在 1990 年，这些行业已经将生产转移到那些失业率高于平均、居民受教育程度低于平均、专利数量并不优于全国一般水平的地区。)
+
+
+The authors argue that the China shock hurt so much because it whacked people who were already struggling. Areas with fewer college-educated workers suffered bigger dents in labour-force participation. And workers in places where industries were already moving out proved the least nimble. Employment fell by more in places where jobs in exposed industries had declined between 1960 and 1980.
+
+
+~[翻译](作者们认为，中国冲击带来的伤痛如此深重，是因为它重创了那些本就在苦苦挣扎的人。在那些大学程度劳动力较少的地区，劳动力参与率的跌幅更大。而在那些各个产业已经在往外撤离的地区，当地劳动者的适应力是最弱的。有些地方的易受冲击行业在 1960 年至 1980 年间就已出现职位减少的情况，它们在中国冲击中职位减少的幅度比别处更大。)
+
+
+Pick yourself up
+
+~[翻译](自救)
+
+
+Other studies have delved into why the China shock hurt so much. Messrs Autor, Dorn and Hanson describe how the places hit hardest took their suppliers down with them, hurting whole communities. Nicholas Bloom of Stanford University and three co-authors found that, although imports from China did support some new jobs (eg, by providing cheaper inputs), they did not grow in the areas where vulnerable jobs were lost. While places like Des Moines dodged the China shock and some towns gained from the cheaper inputs, others were left to flounder.
+
+~[翻译](其他一些研究深入探究了中国冲击何以带来如此大的伤害。奥托尔、多恩和汉森描述了遭受重创的地方如何拖累了它们的供应商，从而伤害了整个社区。斯坦福大学的尼古拉斯·布鲁姆（Nicholas Bloom）和三位合著者发现，尽管来自中国的进口品确实支撑起了一些新工作（例如通过提供更便宜的组件或原材料），但在那些工作岗位本就岌岌可危进而流失的地区，并没有实现新增就业增长。虽然得梅因之类的地方避开了中国冲击，一些城镇也因更廉价的原材料而获益，其他地区却陷入了困境。)
+
+
+As negotiators try to rewrite the terms of Sino-American trade, it may be tempting to conclude that America has paid too high a price for China’s entry into the global trading system. Japan was much richer in the 1980s than China was in the early 2000s; America should have protected its exposed industries. A more helpful conclusion is that politicians should take more care to equip workers labouring far from the innovation frontier to adapt to shocks to their industries—from import competition or anywhere else.
+
+~[翻译](在谈判代表试图改写中美贸易条款之时，外界可能很容易得出结论，认为美国为使中国加入全球贸易体系付出了过高的代价。上世纪 80 年代的日本比本世纪初的中国富裕得多，美国本应保护本国易受冲击的产业。一个更有帮助的结论是，政客们应该花更多的心思武装那些远离创新前沿的劳动者，好让他们在所在行业遭受冲击之时能更好地调整适应——不管是因为进口竞争还是因为其他任何地方带来的冲击。)
+
+
+Politicians might learn another lesson, too. Their response to shocks can usually only speed up or slow down broader structural trends. Even without the China shock, toymaking would have moved somewhere else, some time. Cranking tariffs up or down may offer politicians the temporary sense that they can control foreign competition, but the costs of protection will be borne elsewhere in the economy, largely unseen. And the world will meanwhile move on regardless.
+
+~[翻译](政客们或许还可以吸取另一个教训。面对冲击，他们的应对措施通常都只是加速或减缓了广泛的结构性趋势而已。即便没有中国冲击，玩具制造业也会在某个时候转移到其他地方。加高或下调关税的做法可能会让政客们暂时觉得自己可以控制外国竞争，但贸易保护的成本将会由一国经济中人们多半看不到的其他地方来承担。而与此同时，世界还是会照常运转。)
+

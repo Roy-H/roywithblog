@@ -1,0 +1,76 @@
+China’s tech freeze
+
+Unicorns in winter
+
+A formerly white-hot sector is finding it harder to attract venture capital and is shedding employees
+
+~[翻译](中国的科技寒潮,寒冬中的独角兽,一个曾经炙手可热的行业如今吸引风投的难度增加，正在裁员)
+
+“ONLY WHEN the year grows cold do we see the qualities of the pine and the cypress,” wrote Robin Li, the boss of Baidu, in a new year’s letter to staff at China’s main online-search firm. It was yet another recognition of a chill sweeping through the country’s technology industry. The lavish financing that promising startups have come to expect has dried up. Job cuts have multiplied. Even China’s tech giants have not been spared and are slashing bonuses and travel expenses.
+
+~[翻译](“岁寒方知松柏之后凋。”中国搜索引擎大鳄百度的老板李彦宏在给员工的新年信中这样写道。这是又一次有人承认一股寒流正在席卷中国的科技行业。那些本被看好的创业公司期待的慷慨融资已经枯竭。裁员人数成倍增加。就连科技巨头们也未能幸免，纷纷削减奖金和差旅费。)
+
+This wintry spell is a remarkable reversal for a batch of firms, such as Meituan-Dianping, an online-services super-app, that are among China’s most vivacious. Early last year they appeared to be in rude health and were drawing in vast dollops of investment. More money was raised for venture-capital funds in China in the first half of 2018 than in America, the first time that had ever happened: $56bn compared with $42bn, according to Preqin, a data provider. By the autumn no fewer than 86 new “unicorns”—private, billion-dollar startups—had emerged.
+
+~[翻译](对于中国最生机勃勃的一批公司来说——包括超级在线服务应用美团点评在内，这段寒冬期是一次意外而显著的逆转。去年早些时候它们似乎还十分健康，并吸引了大量投资。数据供应商 Preqin 的数字显示，2018 年上半年，中国为风险投资基金筹集的资金达 560 亿美元，超过美国的 420 亿美元，是有史以来第一次。到同年秋季，中国至少新涌现出 86 家“独角兽”（估值 10 亿美元以上的私营企业）。)
+
+Then the “capital winter” set in. One trigger was a selloff in tech stocks globally that included China’s biggest stars, Alibaba and Tencent. Worries have multiplied about the pace of revenue growth in a slowing economy, as well as the time it is taking for highly valued private startups to approach profitability. Even giants are seeing sales growth slow. In the third quarter of 2018 JD.com, an e-commerce group, reported its slowest quarterly revenue increase since 2014 and its first decline in new users.
+
+~[翻译](接着，“资本寒冬”来了。导火索之一是全球科技股抛售潮，中国最大的明星企业阿里巴巴和腾讯也未能幸免。经济逐渐放缓，人们对营收的增速以及高估值私营创业公司何时能盈利的担忧也大为增加。就连巨头们的销售增长也在减缓。2018 年第三季度，电商集团京东公布了自 2014 年以来最慢的季度营收增速，且新用户数量首次出现下降。 根据研究公司 CB Insights 的数据，2018 年最后三个月与之前三个月相比，对年轻公司的风险投资交易数量下降了五分之二，私募股权融资下降了四分之一以上，跌破 100 亿美元（见图表）。由于无法筹集到资金，许多小型基金甚至消失了。)
+
+
+During the last three months of 2018, deals to commit venture capital to young firms slumped in number by two-fifths, and private-equity financing dropped by more than a quarter, to under $10bn, compared with the previous three months, according to CB Insights, a research firm (see chart). Unable to raise money, a slew of small funds have even disappeared.
+
+~[翻译]()
+
+
+Part of the downturn has more to do with supply of financing for VC funds than disillusion with unicorns. The government has cracked down on informal sources of financing from which much VC funding has flowed, for example. But larger investors have also grown cautious about tech companies. The woes of Ofo, a bike-sharing unicorn, exemplified the sort of hubris that many reckon had spread too far in tech. Ofo raised seven rounds of financing within 18 months, earning a $2bn valuation. It is now almost bankrupt.
+
+~[翻译](寻求早期投资的创业公司对资本寒冬的感受最为强烈。咨询公司普华永道的合伙人郭誉清表示，投资者建议这些公司要有心理准备，公司估值可能仅能达到一年前可达到水平的一半。以前，投资者在创业公司成立之前就挥舞着投资意向书，现在他们都在观望。中国科技业的大型投资者启明创投的梁颖宇表示，交易耗时更长了，曾经一个月内就可筹集到的一轮资金现在需要六个月。)
+
+
+Startups looking for early-stage investment have felt the capital winter most keenly. Yuqing Guo, a partner at PwC, a consultancy, says investors are advising them to expect as little as half the valuation they might have won a year ago. Where once investors brandished term sheets before a startup had launched, now they wait. Deals are taking longer: a round of funding once raised within a month is taking six, says Nisa Leung of Qiming Venture Partners, a big investor in Chinese tech.
+
+~[翻译](寻求早期投资的创业公司对资本寒冬的感受最为强烈。咨询公司普华永道的合伙人郭誉清表示，投资者建议这些公司要有心理准备，公司估值可能仅能达到一年前可达到水平的一半。以前，投资者在创业公司成立之前就挥舞着投资意向书，现在他们都在观望。中国科技业的大型投资者启明创投的梁颖宇表示，交易耗时更长了，曾经一个月内就可筹集到的一轮资金现在需要六个月。)
+
+
+As private cash has grown harder to come by, more established companies have been looking to public markets. But this has turned into another reckoning for the tech industry, as some anticipated blockbusters fall flat. Shares in Meituan-Dianping and Ping An Good Doctor, China’s largest online health-care app, have dropped by a tenth from their offering price.
+
+
+~[翻译](私人资金越来越难获得，更成熟些的企业已将目光投向公开市场。但随着一些预期会大热的公司表现惨淡，这已成了对科技业的又一次清算。美团点评和中国最大的在线医疗应用平安好医生的股价较发行价下跌了十分之一。)
+
+
+Among Chinese bosses, meanwhile, business confidence in the three months to December was at its lowest in six quarters, according to a survey by the central bank. The country lost around 160 billionaires to last year’s stockmarket slump, reports Hurun, a consultancy which tracks the country’s super rich. The fortune of Tencent’s Ma Huateng fell by as much as 43% in 2018, to $27bn in October, as his social-media and gaming titan was hobbled by a regulatory hold-up. For the three months to June 2018 the company posted its first quarterly profit decline since 2005.
+
+
+~[翻译](与此同时，中国央行的一项调查显示，去年第四季度中国企业家的信心指数降至六个季度以来的最低水平。据追踪研究中国超级富豪的咨询公司胡润报道，去年股市暴跌导致中国少了约 160 名亿万富翁。去年，腾通庞大的社交媒体和游戏业务受到监管收紧的影响，造成 CEO 马化腾的财富缩水 43%，在 10 月份为 270 亿美元。2018 年第二季度，腾讯公布了自 2005 年以来的首次单季利润下滑。)
+
+
+Other peppy online businesses have been hurt by tighter censorship, as the Communist Party intrudes ever more noticeably into China’s technology sector—whether by requiring the shutting down of a popular jokes app, or by announcing that Jack Ma of Alibaba, its best entrepreneur, is a party member. Meanwhile, internet firms are having to look for new ways to attract users and sources of revenue. Karen Chan of Jefferies, a bank, expects growth in China’s online ad budget to slow from the 30% of the past two years to 17% this year.
+
+~[翻译](随着共产党对中国科技业的干预越来越明显，其他充满活力的网络公司也因更严格的审查制度受损：无论是让流行的搞笑段子应用下架，还是宣布阿里巴巴的马云这位中国最优秀的企业家是一名中共党员。与此同时，互联网公司也不得不寻找新途径来吸引用户和收入来源。投行杰富瑞的陈翠珊预计，中国在线广告预算的增速将从前两年的 30% 减缓到今年的 17%。)
+
+
+Baidu, Alibaba and Tencent, as well as Meituan-Dianping and Xiaomi, have announced restructuring plans involving a workforce trim or a reduction in new hires. Didi Chuxing, a ride-hailing giant, halved year-end bonuses for staff. Rumours of large lay-offs have circulated on social media: Zhihu, a Quora-like question-and-answer website, was reported to have fired 300 workers in December (it denied this). Job openings for the internet industry fell by 40% in the first quarter of 2018 on the previous year, according to data from Zhaopin, a jobs website.
+
+~[翻译](百度、阿里巴巴、腾讯、美团点评和小米都宣布了包含裁员或减少招聘的重组计划。网约车巨头滴滴出行将员工的年终奖减半。社交媒体上满是关于大批裁员的传言；问答网站知乎据称去年 12 月解雇了 300 名员工（该公司否认了这一消息）。招聘网站智联招聘的数据显示，2018 年第一季度，互联网行业的招聘职位比去年同期减少了 40%。)
+
+
+How long will such problems persist? For the capital winter, investors say a thaw could be near. China’s stockmarket has bounced in 2019. A new innovation board in Shanghai, modelled on Nasdaq, should encourage local tech offerings, with rules that allow even some money-losing startups to go public. The first flotations may begin in the summer.
+
+~[翻译](这些问题会持续多久？投资者说，资本寒冬可能快要解冻了。中国股市在 2019 年已经反弹。上海新推出了一个仿效纳斯达克的科技创新板，应该能鼓励本土科技企业上市，其规则甚至允许一些亏损的创业公司上市。首批上市可能在今夏启动。)
+
+
+Still, China’s unicorns will need to grow differently in future. Many are expanding not in their usual bases of Beijing, Shanghai and Shenzhen, but in second-tier cities, including Wuhan, Chengdu and Xi’an, driven by a need to reduce operating costs. These inland cities are luring talented young Chinese and the startups they want to work for. They offer housing subsidies and relaxed rules on household registrations, a system that ties Chinese to where their family came from.
+
+~[翻译](不过，中国的独角兽未来需要改变成长方式。出于降低运营成本的需要，许多公司不再像以往那样以北京、上海和深圳为基地扩张，而是选择武汉、成都和西安等二线城市。这些内陆城市正在吸引有才华的中国年轻人和他们想要去工作的创业公司。它们提供住房补贴，放宽户口登记这一将中国人和他们的家庭所在地绑定在一起的制度。)
+
+
+Xiaohongshu (meaning “Little Red Book”), a popular social network for fashion and beauty products, made the move to Wuhan in 2017 from its base in Shanghai. Its largest office is now there. Lower costs have allowed it to grow quickly, and it entices the best to relocate by paying them rich-city salaries. It was valued at over $3bn in a funding round in June led by Alibaba. Tao Yun, who runs Xiaohongshu in Wuhan, says that the capital winter marks a threshold: startups will need not just “a good story and barbaric growth”, says Ms Tao, but solid numbers to back them up.
+
+~[翻译](走红的时尚和美妆类社交网络小红书的总部位于上海，2017 年又踏足武汉。现在武汉办公室的规模已是最大。较低的成本让它得以快速发展，并且通过提供一线城市的工资吸引优秀人才移居武汉。在去年 6 月阿里巴巴领投的一轮融资中，该公司估值超过 30 亿美元。小红书武汉总部的负责人陶芸表示，资本寒冬划出了一个门槛：创业公司“不仅需要一个好故事和野蛮生长”，还需要切实的数据来支撑。)
+
+
+In a widely circulated post in December, Wang Xing, the founder of Meituan-Dianping, made a grim prediction that “2019 might be the worst year of the past decade, but it will be the best of that to come”. If firms and investors learn the hard lessons of the capital winter—when it comes to adapting, Chinese startups, after all, have strong form—such dark thoughts may be set aside come spring.
+
+~[翻译](去年 12 月，美团点评的创始人王兴在网上发布的一段话广为流传。他悲观地预测道：“2019 年可能会是过去十年里最差的一年，但却是未来十年里最好的一年。”如果企业和投资者在资本寒冬里吸取了惨痛的教训，可能春天到来时这些忧思就会被抛诸脑后。毕竟，论适应性，中国的创业公司可是很强大的。)

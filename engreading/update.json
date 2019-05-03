@@ -2,12 +2,13 @@
     "version":"1.000.0001",
     "datetime": "2019-4-26",
     "articles": [
+      "https://roy-h.github.io/roywithblog/engreading/e00007.markdown",
+      "https://roy-h.github.io/roywithblog/engreading/e00006.markdown",
       "https://roy-h.github.io/roywithblog/engreading/e00005.markdown",
       "https://roy-h.github.io/roywithblog/engreading/e00004.markdown",
       "https://roy-h.github.io/roywithblog/engreading/e00003.markdown",
       "https://roy-h.github.io/roywithblog/engreading/e00002.markdown",
-      "https://roy-h.github.io/roywithblog/engreading/e00001.markdown",
-      "https://roy-h.github.io/roywithblog/engreading/bytecode.markdown"
+      "https://roy-h.github.io/roywithblog/engreading/e00001.markdown"
       
     ]
   }
