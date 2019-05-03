@@ -1,6 +1,6 @@
-Bartleby
+##Bartleby
 
-Conscious decoupling
+##Conscious decoupling
 
 A new book explains how managers struggle with changing customer behavior
 
