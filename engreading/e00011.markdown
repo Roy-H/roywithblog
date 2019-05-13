@@ -1,0 +1,48 @@
+##Online education
+
+##Patient learning
+
+A new kind of online school wants to teach nursing, and more
+
+~[翻译](在线教育，学习护理，一种新型网校想要教授护理和其他很多职业技能)
+
+“I HAVE BEEN this close to buying a nursing school.” This is not a sentence you expect to hear from a startup founder. Nursing seems a world away from the high-tech whizziness of Silicon Valley. And, to use a venture-capital cliché, it does not scale easily. Austen Allred, boss of Lambda School, sees things differently. His two-year-old firm matches labour supply and demand by providing fast, efficient training to potential employees. It offers five online courses that prepare candidates to write software at technology firms. Training nurses, more of which are sorely needed to care for America’s ageing population, is not an illogical next step—especially when many nursing schools have to turn people away.
+
+~[翻译](“我离收购一所护理学校只有一步之遥了。”人们不会想到这样的话竟是出自一位创业公司的创始人之口。护理行业似乎与硅谷的前沿科技风马牛不相及。而且用风险投资的套话来说，这个行业不容易很快做大。但兰姆达学校（Lambda School）的老板奥斯丁·奥尔雷德（Austen Allred）有不同的看法。成立于两年前的兰姆达提供快速、高效的培训，为职场输送新人，以此匹配劳动力供需。公司目前提供五门在线课程，为科技公司培训程序员。下一步它准备开展护士培训，这并非不合逻辑——人口老龄化的美国亟需更多护士，尤其是在当前很多护校无力招收更多学生的情况下。)
+
+Instead of responding to the threat of joblessness posed by automation with a universal basic income, Mr Allred wants to help people to switch jobs faster. Unlike most online courses, Lambda does not charge students up front to attend (though admissions are competitive) and online tuition is live and interactive, not recorded. Full-time students attend for nine months, Monday to Friday, 8am to 5pm San Francisco time. Latecomers risk falling behind. In most recent classes, 85% of students who began a course finished it.
+
+~[翻译](奥尔雷德希望帮助人们更快地转行，而不是用所谓的“全民基本收入”来应对自动化带来的失业威胁。与大多数在线课程不同，兰姆达并不在开课前收学费（尽管入学竞争激烈），其在线教学也是实时互动，而不是事先录制的。全日制学生的学制为九个月，授课时间为旧金山时间周一到周五的上午8点至下午5点。中途入学者可能会跟不上进度。在近期大部分课程中，85%的学生修完了自己选的课程。)
+
+The school only starts getting paid back for its services after its students have landed a job which pays them more than $50,000 a year, something Lambda expends significant energy to help them do. Around 70% of those enrolled do so within six months of graduation. Lambda then gets a cut of about a sixth of their income for the next two years, until they have paid about $30,000. (Or they can pay $20,000 up front.)
+
+~[翻译](只有在学员谋得一份年薪超过五万美元的工作后，学校才开始收取服务回报。而为了帮学生找到一份这样的工作，兰姆达花费了大量精力。约70%的学员在毕业后六个月内达到了这个目标。在此后的两年里，兰姆达会抽取学员收入的约六分之一，最终累计收取约三万美元。如果学员一次性付清，则为两万美元。)
+
+
+The firm devotes about a third of its time and resources to finding jobs for its graduates, an unusually high share. Another third goes to recruiting students and the rest to teaching. Courses are created with employers’ requirements in mind. For its web-development programme, the list given to Lambda by companies runs to 280 items. Unlike coding, nursing cannot be taught entirely over the internet, so Lambda wants to co-operate with nursing schools across America that could provide the necessary hands-on instruction.
+
+~[翻译](兰姆达将三分之一左右的时间和资源花在为毕业学员找工作上，这么高的比重不常见。另外三分之一用于招生，三分之一用于教学。课程是根据雇主的要求而设计的。在它的网站开发课程中，企业开给兰姆达的需求多达280项。而护理有别于编程，不可能完全通过互联网教授，因此兰姆达希望与全美各地能提供必要操作实训的护校合作。)
+
+
+After nursing, Lambda plans to work its way down the list of professions with the biggest job shortages. It is also examining the problem from the other side, identifying available jobs that require skills akin to those of victims of automation—truckers displaced by self-driving lorries or call-centre workers replaced by robocalls.
+
+~[翻译](在开展护理培训后，兰姆达还计划逐个进军其他人员最紧缺的职业。同时它也从另一面审视问题，为那些被自动化淘汰的人员（例如被无人驾驶货车取代的卡车司机，或者被自动语音呼叫取代的呼叫中心员工）找到需要类似技能的就业岗位。)
+
+
+Lambda’s quirks set it apart in Silicon Valley, but Mr Allred is not the first to recognise the value of work-focused education and training. Germany is famed for its widespread vocational training and apprenticeships. Closer to California, the University of Waterloo, a technology-oriented Canadian institution, has had gainful employment within the field of study as one of its core goals since it was founded 62 years ago. Students seeking an internship can enroll in a special scheme which matches them with firms. Norah McRae, who runs the programme, says that most universities spend little time finding work for the graduates, or teaching the skills they need to prosper in the job market. Too often students are treated as cash cows to be milked for research funding.
+
+~[翻译](兰姆达的另类做法在硅谷独树一帜，但要说认识到以工作为导向的教育与培训的价值的，奥尔雷德并非第一人。德国就以职业培训和学徒制的普及而闻名。离加州更近些的滑铁卢大学是加拿大一所技术型大学。自62年前创办以来，该校一直将找到与学生专业对口的较高收入工作作为自己的核心目标之一。想找实习机会的学生可以注册一个将他们与企业相匹配的特别项目。负责该项目的诺拉·麦克雷（Norah McRae）表示，多数大学很少花时间帮助毕业生就业，也很少教授他们在就业市场获得成功所需的技能。很多时候，学生们都被当成了捞取研究经费的摇钱树。)
+
+
+But Ms McRae is also concerned that programmes like Lambda School, though well-meaning, risk undermining existing educational institutions by offering a quicker route to work. The kind of intense optimisation which Lambda espouses cannot, she worries, replace conventional learning, which strives to create not just capable workers but rounded individuals.
+
+
+~[翻译](但麦克雷也担心，像兰姆达学校这样的培训项目虽然出发点不错，但可能会因为提供就业上的捷径而损害现有的教育体系。她担心兰姆达倡导的那种密集型的优化培训并非是对传统教育的一种好的替代，因为后者致力培养的不仅是能胜任工作的员工，还是全面发展的个体。)
+
+
+Such fears presuppose that Lambda can succeed beyond even Mr Allred’s wildest dreams—or those of the venture capitalists who pumped $30m into the firm in January, valuing it at $150m. Student numbers, and so upfront costs, are growing faster than revenues. If Lambda can turn a profit by offering people a stab at a decent job, that would be a fine lesson in capitalism.
+
+
+~[翻译](不过这种担忧成立的前提是兰姆达取得的成功要远远超出奥尔雷德本人的想象——或者那些今年1月向兰姆达投资3000万美元、对其估值1.5亿美元的风险投资家们的想象。目前，学生人数的增长以及由此带来的前期成本的增速——超过了收入的增速。如果兰姆达能通过帮助人们拿下一份体面工作来赢利，那还真会是资本主义的一条有益经验。)
+
+
