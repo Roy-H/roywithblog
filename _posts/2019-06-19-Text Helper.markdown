@@ -7,7 +7,7 @@ categories: product
 
 Text Helper Version 1.0 has released !!
 
-Get Started, Click [here](http://roy-h.github.io/roywithblog/cdn/setup.msi) to download.
+Get Started, Click [here](http://roy-h.github.io/roywithblog/cdn/Setup.msi) to download.
 
 Life is good, hope you enjoy.
 
